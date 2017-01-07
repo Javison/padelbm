@@ -1,0 +1,44 @@
+
+php composer.phar create project laravel/laravel padeldos
+cd padeldos
+composer.phar install
+
+Config/database.php
+	padeldos/general/general
+Config/app.php
+	debug=true
+
+Create layouts/default.blade.php
+
+Create view/home.blade.php
+
+Install Sentry:
+	https://cartalyst.com/manual/sentry/installation/laravel-4
+	
+Discharge and match calendars
+https://developers.google.com/google-apps/calendar/
+https://developers.google.com/google-apps/calendar/get_started
+http://stackoverflow.com/questions/14889040/google-calendar-api-with-php
+
+FullCalendar 
+https://github.com/Crinsane/LaravelCalendar
+
+
+
+Create google account OAuth:
+Client ID	379307468072.apps.googleusercontent.com
+Email address	379307468072@developer.gserviceaccount.com
+
+Revisar si la query BETWEEN abarca los datos =s. El partido de las 24 no estara incluido
+
+-- 20150133 --
+Retomar desarrollo
+poner twitter bootstrap
+Crear menu. Mover Social Net a footer 
+
+-- 20150215 --
+Installar confide segun pasos de la web
+	UsersController.php Successfully created!
+	UserRepository.php Successfully created!
+	
+Modificar UserValidateor para hacer username required field
