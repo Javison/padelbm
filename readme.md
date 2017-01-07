@@ -9,19 +9,13 @@ README
 - Zizaco/confide (Authentication)
 
 
-![1 - Main.png](https://bitbucket.org/repo/7XB5kA/images/2920368053-1%20-%20Main.png)
-
-![2 - Matches.png](https://bitbucket.org/repo/7XB5kA/images/2181625045-2%20-%20Matches.png)
-
-![3 - Login.png](https://bitbucket.org/repo/7XB5kA/images/1456495182-3%20-%20Login.png)
-
-![4 - SignIn.png](https://bitbucket.org/repo/7XB5kA/images/2333554117-4%20-%20SignIn.png)
-
-![5 - Admin Main.png](https://bitbucket.org/repo/7XB5kA/images/1878149558-5%20-%20Admin%20Main.png)
-
-![6 - Admin Discharge.png](https://bitbucket.org/repo/7XB5kA/images/4024978774-6%20-%20Admin%20Discharge.png)
-
-![7 - Main Style 2.png](https://bitbucket.org/repo/7XB5kA/images/3218972117-7%20-%20Main%20Style%202.png)
+![1 - main](https://cloud.githubusercontent.com/assets/11034615/21744032/ac719f8a-d50e-11e6-8c7b-dd21cd06ddd7.png)
+![2 - matches](https://cloud.githubusercontent.com/assets/11034615/21744030/ac71645c-d50e-11e6-8a7b-cb0ef174af3f.png)
+![3 - login](https://cloud.githubusercontent.com/assets/11034615/21744028/ac711812-d50e-11e6-860a-d55ca678581d.png)
+![4 - signin](https://cloud.githubusercontent.com/assets/11034615/21744031/ac71bd44-d50e-11e6-8677-50fe7f4f22b7.png)
+![5 - admin main](https://cloud.githubusercontent.com/assets/11034615/21744029/ac715fc0-d50e-11e6-9f76-d45fb15d27a9.png)
+![6 - admin discharge](https://cloud.githubusercontent.com/assets/11034615/21744033/ac73dca0-d50e-11e6-9f3a-e9d4dda38285.png)
+![7 - main style 2](https://cloud.githubusercontent.com/assets/11034615/21744034/ac87ec68-d50e-11e6-8f45-8d2b5c41edb0.png)
 
 ==============
 #INDEX
