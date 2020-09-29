@@ -1,7 +1,7 @@
 README
 ==============
 
-**Unfinished** Website for padel-tenis court management. Made with:
+Website for padel-tenis court management. Made with:
 
 - Laravel 4 PHP Framework
 - MySQL
